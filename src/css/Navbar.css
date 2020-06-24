@@ -1,0 +1,7 @@
+.nav-link:hover{
+    background:rgb(49, 57, 59);
+ }
+
+ .navbar{
+     background: linear-gradient(to right,rgb(26, 180, 185),rgb(0, 81, 128));
+ }
